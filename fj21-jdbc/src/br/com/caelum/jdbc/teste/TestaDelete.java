@@ -1,8 +1,5 @@
 package br.com.caelum.jdbc.teste;
 
-import java.util.Calendar;
-import java.util.GregorianCalendar;
-
 import br.com.caelum.jdbc.dao.ContatoDao;
 import br.com.caelum.jdbc.modelo.Contato;
 

@@ -5,12 +5,10 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.List;
 
 import br.com.caelum.jdbc.ConnectionFactory;
 import br.com.caelum.jdbc.exception.DAOException;
-import br.com.caelum.jdbc.modelo.Contato;
 import br.com.caelum.jdbc.modelo.Funcionario;
 
 public class FuncionarioDao {
